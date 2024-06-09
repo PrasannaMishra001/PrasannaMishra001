@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasannamishra001" alt="prasannamishra001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@prasannamis838" target="blank"><img src="https://img.shields.io/twitter/follow/@prasannamis838?logo=twitter&style=for-the-badge" alt="@prasannamis838" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@prasannamis838" target="blank"><img src="https://img.shields.io/twitter/follow/@prasannamis838?logo=twitter&style=for-the-badge" alt="prasannamis838" /></a> </p>
 
-- 🌱 I’m currently learning **mern stack,machine learning and NLP.**
+- 🌱 I’m currently learning **MERN Stack,Machine Learning and Languages.**
 
-- 📫 How to reach me **mishra.prasanna838@gmail.com**
+- 📫 Reach Me At: **mishra.prasanna838@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
