@@ -1,9 +1,16 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prasannamishra001&label=Profile%20views&color=0e75b6&style=flat" alt="prasannamishra001" /> </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" />
+</p>
+
 <h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Your Image Description" width="80" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prasanna+Mishra!;" />
 </h1>
+
+
 
 <div align="center">
  
