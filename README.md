@@ -44,7 +44,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@mishra_discover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prasannamis838" height="30" width="40" /></a>
+<a href="https://twitter.com/@mishra_discover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mishra_discover" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prasanna-mishra-32960927b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna-mishra-32960927b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23150933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23150933" height="30" width="40" /></a>
 <a href="https://kaggle.com/prasannamishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prasannamishra" height="30" width="40" /></a>
@@ -63,8 +63,8 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=@mishra_prasanna1&color=2EC866&logoColor=&labelColor=f0f5f1&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   
-  <a href="https://x.com/prasannamis838" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@prasannamis838&color=1DA1F2&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://x.com/mishra_discover" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@mishra_discover&color=1DA1F2&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
