@@ -1,0 +1,32 @@
+repo_name: PrasannaMishra001/PrasannaMishra001
+report_id: 38ed771d51d69ddcc508ceb23083ae7d
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-16T06:30:48+00:00'
+requested_by: PrasannaMishra001
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/PrasannaMishra001/PrasannaMishra001
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/PrasannaMishra001/PrasannaMishra001/blob/main/.github/workflows/snake.yml
+  detection_source: ".github/workflows/snake.yml"
+  last_updated_by: Prasanna Mishra
+  last_updated_on: 2024-06-10 07:24:29.000000000 Z
