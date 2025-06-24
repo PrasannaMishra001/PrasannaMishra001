@@ -51,7 +51,7 @@
 <a href="https://instagram.com/prasanna.mishra.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasanna.mishra.11" height="30" width="40" /></a>
 <a href="https://medium.com/@mishra.prasanna838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mishra.prasanna838" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@prasannamishra5242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@prasannamishra5242" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prasanna_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasanna_mishra" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasanna_mishra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mishrapradl12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mishrapradl12" height="30" width="40" /></a>
 </p>
 <div align="center">
