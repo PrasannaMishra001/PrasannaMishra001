@@ -13,7 +13,7 @@
 
 
 <div align="center">
- 
+ Intern@ AMRG Group
  🔭 I’m currently working on **Animal Health Tracker**
  
  🌱 I’m currently learning **MERN Stack,Machine Learning and Algorithms.**
@@ -99,7 +99,7 @@
 <br>
 <div align=center>
 
-<p align="center">
+<!-- <p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannamishra001&theme=dark" alt="streak stats" />
 </p>
 <p align="center">
@@ -107,7 +107,7 @@
 </p>
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrasannaMishra001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="top langs" />
-</p>
+</p> -->
 
 
 </div>
