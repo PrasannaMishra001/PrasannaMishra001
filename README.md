@@ -110,7 +110,7 @@
 <p align="center">
   <img
     width="400"
-    src="https://github-readme-stats.vercel.app/api?username=prasannamishra001&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=prasannamishra001&show_icons=true&theme=dark&cache_seconds=1800"
     alt="GitHub Stats"
   />
 </p>
@@ -118,10 +118,11 @@
 <p align="center">
   <img
     width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannamishra001&layout=compact&langs_count=5&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannamishra001&layout=compact&langs_count=5&theme=dark&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
+
 
 
 
