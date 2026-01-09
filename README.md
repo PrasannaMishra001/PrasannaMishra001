@@ -99,15 +99,30 @@
 <br>
 <div align=center>
 
-<!-- <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=prasannamishra001&theme=dark" alt="streak stats" />
-</p>
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=PrasannaMishra001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="readme stats" />
+  <img
+    width="400"
+    src="https://github-readme-streak-stats.herokuapp.com?user=prasannamishra001&theme=dark"
+    alt="GitHub Streak Stats"
+  />
 </p>
+
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrasannaMishra001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" alt="top langs" />
-</p> -->
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=prasannamishra001&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannamishra001&layout=compact&langs_count=5&theme=dark"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 </div>
