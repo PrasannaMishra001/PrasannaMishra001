@@ -16,17 +16,22 @@
  Intern@ AMRG Group
  🔭 I’m currently working on **Animal Health Tracker**
  
- 🌱 I’m currently learning **MERN Stack,Machine Learning and Algorithms.**
+ 🌱 I’m currently learning **ML and DL.**
 
  📫 Reach me at  **mishra.prasanna838@gmail.com**
 
-<!--💬 Ask me about **C++,HTMl,CSS,JS,Arduino... or anything [here](https://github.com/PrasannaMishra001/myrepo/issues)**-->>
+<!--💬 Ask me about **C++,HTMl,CSS,JS,Arduino... or anything [here](https://github.com/PrasannaMishra001/myrepo/issues)**
 
 ⚡ Fun fact **Did you know? The first computer bug was an actual bug,a moth! In 1947, Grace Hopper's team found it in the Mark II computer, coining the term "debugging."**
+-->
+
 
  </div>
 
-<div align="center"> 
+
+  
+  <!--
+  <div align="center"> 
   <a href="mailto:mishra.prasanna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -37,7 +42,7 @@
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" />
   </a>
   
-  <!-- <a href="" target="_blank">    
+  <a href="" target="_blank">    
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
 </div>
@@ -60,9 +65,9 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/prasanna-mishra-32960927b/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/prasanna-mishra-32960927b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Prasanna%20Mishra&color=0077B5&logoColor=white&labelColor=24a8f0&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a> -->
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mishra.prasanna838@gmail.com&color=D14836&logoColor=white&labelColor=fa3939&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.hackerrank.com/profile/mishra_prasanna1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=@mishra_prasanna1&color=2EC866&logoColor=&labelColor=f0f5f1&style=for-the-badge" height="35" alt="hackerrank logo"  />
