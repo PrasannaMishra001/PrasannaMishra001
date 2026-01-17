@@ -13,7 +13,6 @@
 
 
 <div align="center">
- Intern@ AMRG Group
  🔭 I’m currently working on **Animal Health Tracker**
  
  🌱 I’m currently learning **ML and DL.**
