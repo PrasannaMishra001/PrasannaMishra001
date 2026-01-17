@@ -13,7 +13,7 @@
 
 
 <div align="center">
- 🔭 I’m currently working on **Animal Health Tracker**
+ 🔭 I’m currently contributing on *OmegaUp*
  
  🌱 I’m currently learning **ML and DL.**
 
