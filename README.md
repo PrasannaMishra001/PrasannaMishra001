@@ -13,10 +13,10 @@
 
 
 <div align="center">
- 🔭 I’m currently contributing on **OmegaUp**
- 
- 🌱 I’m currently learning **ML and DL.**
+ 🌱 I’m currently contributing on **OmegaUp**
 
+  🔭I’m currently learning **ML and DL.**
+   
  📫 Reach me at  **mishra.prasanna838@gmail.com**
 
 <!--💬 Ask me about **C++,HTMl,CSS,JS,Arduino... or anything [here](https://github.com/PrasannaMishra001/myrepo/issues)**
