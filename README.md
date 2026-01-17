@@ -13,7 +13,7 @@
 
 
 <div align="center">
- 🔭 I’m currently contributing on *OmegaUp*
+ 🔭 I’m currently contributing on **OmegaUp**
  
  🌱 I’m currently learning **ML and DL.**
 
