@@ -13,9 +13,10 @@
 
 
 <div align="center">
- 🌱 I’m currently contributing on **OmegaUp**
 
-  🔭I’m currently learning **ML and DL.**
+Contributor @[omegaup](https://github.com/omegaup/omegaup)
+
+I’m currently learning **ML and DL.**
    
  📫 Reach me at  **mishra.prasanna838@gmail.com**
 
