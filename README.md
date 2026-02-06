@@ -21,8 +21,8 @@
 
 ## 🚧 Currently Working On
 
-- Text analysis & keyword extraction pipelines  
-- ML-driven insights from social media data
+- Text analysis & events extraction pipelines  
+- ML-driven insights from stock-social data
 
 <h3 align="center">Connect with me</h3>
 
