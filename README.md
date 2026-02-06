@@ -69,9 +69,10 @@ I’m currently learning **ML and DL.**
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Prasanna%20Mishra&color=0077B5&logoColor=white&labelColor=24a8f0&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a> -->
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mishra.prasanna838@gmail.com&color=D14836&logoColor=white&labelColor=fa3939&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.hackerrank.com/profile/mishra_prasanna1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=@mishra_prasanna1&color=2EC866&logoColor=&labelColor=f0f5f1&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
+
+  <a href="https://leetcode.com/u/Prasanna_Mishra/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=Prasanna_Mishra&color=FFA116&logoColor=white&labelColor=111111&style=for-the-badge" height="35" alt="leetcode logo" />
+</a>
   
   <a href="https://x.com/mishra_discover" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@mishra_discover&color=1DA1F2&logoColor=white&labelColor=blue&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -85,13 +86,15 @@ I’m currently learning **ML and DL.**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <!-- bootstrap,mui,r,flask -->
+
+<!--
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,kotlin,tailwind,git,mysql" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=arduino,cpp,django,bash,wordpress,windows,sublime,prisma,npm,devto" /><br>
      <img src="https://skillicons.dev/icons?i=linux,github,autocad,notion,replit,git,vim" /><br>
 </div>
-
+-->
 <br/>
 <hr/>
 
