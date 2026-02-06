@@ -13,11 +13,9 @@
 
 ## 👋 About Me
 
-- Contributor at **omegaUp**, working close to real production systems  
+- Contributor @[omegaup](https://github.com/omegaup/omegaup) .
 - Strong focus on **problem solving, backend-heavy systems, and applied ML**
-- Comfortable working across **frontend, backend, databases, and infra**
-- Prefer **clean architecture, readable code, and controlled feature rollout**
-- Actively learning **Machine Learning & Deep Learning** with practical use-cases
+- Actively learning **Machine Learning & Deep Learning** with practical applications.
 
 📫 **Reach me at:** `mishra.prasanna838@gmail.com`
 
