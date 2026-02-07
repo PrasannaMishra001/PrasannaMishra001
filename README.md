@@ -1,11 +1,9 @@
 <p align="center" style="width:100%;">
   <!-- Optional full-width banner -->
 </p>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=prasannamishra001&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prasanna+Mishra!;" />
