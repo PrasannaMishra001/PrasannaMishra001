@@ -11,20 +11,36 @@
 
 ## 👋 About Me
 
-- Contributor @[omegaup](https://github.com/omegaup/omegaup) .
-- Strong focus on **problem solving, backend-heavy systems, and applied ML**
-- Actively learning **Machine Learning & Deep Learning** with practical applications.
+- 21 merged PRs at [@omegaUp](https://github.com/omegaup/omegaup) — Vue 2, TypeScript, PHP 8.1, MySQL, Docker
+- Research Intern under Dr. Roshni Chakraborty, ABV-IIITM Gwalior (stock prediction from social data)
+- Knight on LeetCode · Rating 1858 · 500+ problems solved
+- Strong focus on **open-source, backend systems, and applied ML**
+- 🌐 **Portfolio:** [prasannamishra001.github.io/prasannamishra](https://prasannamishra001.github.io/prasannamishra/)
+- 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1azi86BgfU5daak5iSA-Z5VR6YqgsXRj3/view?usp=sharing)
 
 📫 **Reach me at:** `mishra.prasanna838@gmail.com`
 
 ## 🚧 Currently Working On
 
-- Text analysis & events extraction pipelines  
-- ML-driven insights from stock-social data
+- 21+ PRs merged at omegaUp — full-stack open-source (Vue 2 · PHP 8.1 · MySQL 8.0 · Docker)
+- Research on expert identification from StockTwits for stock trend prediction (ML + NLP)
+- Building [GitNaut](https://git-naut.vercel.app/) — terminal-first GitHub intelligence desk
 
 <h3 align="center">Connect with me</h3>
 
 <div align="center" style="width:100%;">
+
+  <a href="https://prasannamishra001.github.io/prasannamishra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=prasannamishra001.github.io&color=222222&logoColor=white&labelColor=24292e&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1azi86BgfU5daak5iSA-Z5VR6YqgsXRj3/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume+PDF&logo=googledrive&label=View&color=4285F4&logoColor=white&labelColor=1a73e8&style=for-the-badge" height="35" />
+  </a>
+
+  <a href="https://git-naut.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitNaut&logo=vercel&label=git-naut.vercel.app&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="35" />
+  </a>
 
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mishra.prasanna838@gmail.com&color=D14836&logoColor=white&labelColor=fa3939&style=for-the-badge" height="35" />
 
