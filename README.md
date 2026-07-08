@@ -11,20 +11,13 @@
 
 ## 👋 About Me
 
-- 21 merged PRs at [@omegaUp](https://github.com/omegaup/omegaup) — Vue 2, TypeScript, PHP 8.1, MySQL, Docker
-- Research Intern under Dr. Roshni Chakraborty, ABV-IIITM Gwalior (stock prediction from social data)
+- GSoC [@omegaUp](https://github.com/omegaup/omegaup) : Vue 2, TypeScript, PHP 8.1, MySQL, Docker
 - Knight on LeetCode · Rating 1858 · 500+ problems solved
 - Strong focus on **open-source, backend systems, and applied ML**
 - 🌐 **Portfolio:** [prasannamishra001.github.io/prasannamishra](https://prasannamishra001.github.io/prasannamishra/)
 - 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1azi86BgfU5daak5iSA-Z5VR6YqgsXRj3/view?usp=sharing)
 
 📫 **Reach me at:** `mishra.prasanna838@gmail.com`
-
-## 🚧 Currently Working On
-
-- 21+ PRs merged at omegaUp — full-stack open-source (Vue 2 · PHP 8.1 · MySQL 8.0 · Docker)
-- Research on expert identification from StockTwits for stock trend prediction (ML + NLP)
-- Building [GitNaut](https://git-naut.vercel.app/) — terminal-first GitHub intelligence desk
 
 <h3 align="center">Connect with me</h3>
 
