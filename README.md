@@ -61,33 +61,12 @@
 
 </div>
 
-<h2 align="center">⚒️ Tech Stack</h2>
-
-<div align="center" style="width:100%;">
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=vue,ts,html,css,scss" />
-  <br/>
-
-  <!-- Backend & DB -->
-  <img src="https://skillicons.dev/icons?i=php,mysql" />
-  <br/>
-
-  <!-- Problem Solving / ML -->
-  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
-  <br/>
-
-  <!-- Infra -->
-  <img src="https://skillicons.dev/icons?i=docker,redis,linux,git" />
-
-</div>
-
 <div align="center">
-  <h2>🐍 My Contributions</h2>
+  <h2>My Contributions</h2>
   <img src="https://raw.githubusercontent.com/PrasannaMishra001/PrasannaMishra001/output/snake.svg" />
 </div>
 
-<h2 align="center">⚡ Stats</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center" style="width:100%;">
 
