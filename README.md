@@ -11,8 +11,9 @@
 
 ## 👋 About Me
 
-- GSoC [@omegaUp](https://github.com/omegaup/omegaup) : Vue 2, TypeScript, PHP 8.1, MySQL, Docker
-- Knight on LeetCode · Rating 1858 · 500+ problems solved
+- Google Summer of Code 2026 contributor [@omegaUp](https://github.com/omegaup/omegaup) (completed): built a cron control plane for production jobs · [write-up](https://prasannamishra001.github.io/prasannamishra/gsoc/)
+- 60 merged PRs to omegaUp : Python, PHP 8.1, MySQL, Vue, TypeScript, Docker
+- LeetCode max rating 1868 (top 8.5%) · 540+ problems solved
 - Strong focus on **open-source, backend systems, and applied ML**
 - 🌐 **Portfolio:** [prasannamishra001.github.io/prasannamishra](https://prasannamishra001.github.io/prasannamishra/)
 - 📄 **Resume:** [View PDF](https://drive.google.com/file/d/1azi86BgfU5daak5iSA-Z5VR6YqgsXRj3/view?usp=sharing)
