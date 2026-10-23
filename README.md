@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-- Google Summer of Code 2026 contributor [@omegaUp](https://github.com/omegaup/omegaup) (completed): built a cron control plane for production jobs · [write-up](https://prasannamishra001.github.io/prasannamishra/gsoc/)
+- Google Summer of Code 2026 contributor [@omegaUp](https://github.com/omegaup/omegaup) (completed): built a cron control plane for production jobs · [write-up](https://prasannamishra001.github.io/prasannamishra/gsoc/) · [certificate](https://drive.google.com/file/d/1nUSmF8SteqWiQusMwfKkd1URJqCJ-4nx/view?usp=sharing)
 - 60 merged PRs to omegaUp : Python, PHP 8.1, MySQL, Vue, TypeScript, Docker
 - LeetCode max rating 1868 (top 8.5%) · 540+ problems solved
 - Strong focus on **open-source, backend systems, and applied ML**
